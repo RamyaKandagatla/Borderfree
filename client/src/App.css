@@ -1,24 +1,22 @@
-
-.div-header{
-  position:'fixed';
-  top:0;
+.div-header {
+  position: "fixed";
+  top: 0;
 }
-.carousel-images{
-  position:absolute;
-  top:150px;
-  width:100%;
+.carousel-images {
+  position: absolute;
+  top: 150px;
+  width: 100%;
   background-color: gainsboro;
 }
-.div-cards{
+.div-cards {
   background-color: darkcyan;
-  width:100%;
-
+  width: 100%;
 }
 
-.cards-images{
-  position:absolute;
-  top:700px;
+.cards-images {
+  position: absolute;
+  top: 700px;
   margin-left: 30px;
-  margin-right:30px;
+  margin-right: 30px;
   margin-bottom: 50px;
 }
